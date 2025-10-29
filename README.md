@@ -2,8 +2,6 @@
 
 💻 Atuo como desenvolvedor **Full Stack**, com experiência em front-end e back-end, apaixonado por tecnologia, boas práticas de código e pela criação de soluções que realmente fazem a diferença. Tenho experiência em **desenvolvimento web**, atuando com diversas linguagens, frameworks e metodologias ágeis.
 
----
-
 ## 🚀 Tecnologias e Ferramentas
 
 ### 🧩 Linguagens e Frameworks
@@ -72,8 +70,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 
----
-
 ### 🗃️ Bancos de Dados
 
 <p>
@@ -92,8 +88,6 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
   />
 </p>
-
----
 
 ### 🧰 Controle de Versão
 
@@ -121,8 +115,6 @@
   /> 
 </p>
 
----
-
 ### 🧠 Ambientes e IDEs
 
 <p>
@@ -147,8 +139,6 @@
    />
 </p>
 
----
-
 ### 🗓️ Ferramentas de Gestão
 
 <p>
@@ -166,8 +156,6 @@
    />
 </p>
 
----
-
 ### ⚙️ Metodologias
 
 - ITIL
@@ -179,8 +167,6 @@
 ## 📈 Sobre mim
 
 Sou um profissional em constante aprendizado, com cerca de **2 anos de experiência em desenvolvimento**, buscando sempre aprimorar minhas habilidades técnicas e contribuir para equipes que valorizem a colaboração, a qualidade de código e a inovação.
-
----
 
 ## 📫 Como me encontrar
 
