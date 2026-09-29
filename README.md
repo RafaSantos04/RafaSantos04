@@ -1,6 +1,10 @@
 # 👋 Olá! Eu sou o Rafael Barroso
 
-💻 Atuo como desenvolvedor **Full Stack**, com experiência em front-end e back-end, apaixonado por tecnologia, boas práticas de código e pela criação de soluções que realmente fazem a diferença. Tenho experiência em **desenvolvimento web**, atuando com diversas linguagens, frameworks e metodologias ágeis.
+💻 Desenvolvedor **Full Stack**, com experiência no desenvolvimento e evolução de **aplicações web utilizadas em ambientes reais**, atuando do back-end ao front-end. Trabalho principalmente com **PHP/Laravel, React, TypeScript e MySQL**, desenvolvendo APIs REST, integrações, regras de negócio e interfaces modernas.
+
+⚙️ Tenho experiência com **Docker, Git, CI/CD, testes automatizados, autenticação, filas e processamento assíncrono**, além de práticas de arquitetura, segurança e qualidade de código. No dia a dia, participo desde a análise do problema e definição da solução até implementação, testes e deploy.
+
+🚀 Busco construir software **seguro, sustentável e bem estruturado**, aplicando boas práticas de engenharia sem perder de vista aquilo que considero mais importante: resolver problemas reais e entregar valor para quem utiliza o sistema.
 
 ## 🚀 Tecnologias e Ferramentas
 
