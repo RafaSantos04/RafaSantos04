@@ -4,7 +4,7 @@
 
 ⚙️ Tenho experiência com **Docker, Git, CI/CD, testes automatizados, autenticação, filas e processamento assíncrono**, além de práticas de arquitetura, segurança e qualidade de código. No dia a dia, participo desde a análise do problema e definição da solução até implementação, testes e deploy.
 
-🚀 Busco construir software **seguro, sustentável e bem estruturado**, aplicando boas práticas de engenharia sem perder de vista aquilo que considero mais importante: resolver problemas reais e entregar valor para quem utiliza o sistema.
+💡 Busco construir software **seguro, sustentável e bem estruturado**, aplicando boas práticas de engenharia sem perder de vista aquilo que considero mais importante: resolver problemas reais e entregar valor para quem utiliza o sistema.
 
 ## 🚀 Tecnologias e Ferramentas
 
